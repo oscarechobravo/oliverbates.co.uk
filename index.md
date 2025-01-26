@@ -13,6 +13,6 @@ You can find my work work in a bunch of different places:
 👩‍🎤[Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/oliver-bates) - research fellow. sustainable futures and digital research infrastructure  
 📜 [Google Scholar](https://scholar.google.co.uk/citations?user=ZXDbf_EAAAAJ&hl=en) - academic outputs  
 
-Get in touch here: 
+Get in touch here:  
 ✉️ [LinkedIn](https://uk.linkedin.com/in/batesoliver)  
-- 🦋 [BlueSky](https://bsky.app/profile/oliverbates.bsky.social)  
+🦋 [BlueSky](https://bsky.app/profile/oliverbates.bsky.social)  
