@@ -3,7 +3,7 @@
 I’m Oliver. I’m a researcher and designer who works on social change and sustainability projects. I use creative and diy methods, games and facilitation in my work, and sometimes use my tech background. I do a patchwork of things between consultancy, academia and DIY. 
 [Meal Deal](https://oliverbates.itch.io/meal-deal) is a game I made with [Ben Kirman](http://ben.kirman.org).
 
-You can find my work work in a bunch of different places:
+You can find my work in a bunch of different places:
 
 🌀[fractals.coop](https://fractals.coop) - social change consultancy, creative facilitation, climate futures conversations  
 👾 [itch.io](https://oliverbates.itch.io/) - my games, zines and diy stuff  
