@@ -15,4 +15,4 @@ You can find my work work in a bunch of different places:
 
 Get in touch here:  
 ✉️ [LinkedIn](https://uk.linkedin.com/in/batesoliver)  
-🦋 [BlueSky](https://bsky.app/profile/oliverbates.bsky.social)  
+🦋 [BlueSky](https://bsky.app/profile/oliverbates.co.uk)  
