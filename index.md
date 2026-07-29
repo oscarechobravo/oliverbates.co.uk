@@ -10,7 +10,7 @@ You can find my work in a bunch of different places:
 ⚙️ [Crank and File](https://crankandfile.co.uk) - gig economy cycle courier provocations and futures  
 📊 [Cetis LLP](https://www.cetis.org.uk) - edutech, data analysis, viz, carbon data  
 🖥️ [GitHub](http://github.com/oscarechobravo) - a chaotic archive of code    
-👩‍🎤[Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/oliver-bates) - research fellow. sustainable futures and digital research infrastructure  
+👩‍🎤[Lancaster University](https://www.lancaster.ac.uk/security-lancaster/about/people/oliver-bates) - research fellow. sustainable futures and digital research infrastructure  
 📜 [Google Scholar](https://scholar.google.co.uk/citations?user=ZXDbf_EAAAAJ&hl=en) - academic outputs  
 
 Get in touch here:  
