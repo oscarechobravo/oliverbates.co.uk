@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyborg Cow for a friend"
-image: "/assets/images/cyborgcow.gif"
+image: assets/images/cyborgcow.gif
 date: 2024-07-24
 visible: true
 author: oliver

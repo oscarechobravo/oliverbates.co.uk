@@ -2,7 +2,7 @@
 layout: post
 title: OurTravel
 description: "Community journey sharing app"
-image: "/assets/images/ourtravel.png"
+image: assets/images/ourtravel.png
 date: 2011-06-01
 portfolio: true
 author: oliver

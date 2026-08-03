@@ -3,7 +3,7 @@ layout: post
 title: Mapping older adults service experiences
 description: "Open Data Mobile Apps to
 Support Independent Living"
-image: "/assets/images/seniors_tech.jpg"
+image: assets/images/seniors_tech.jpg
 date: 2016-03-04
 author: oliver
 categories: [academic project, user research]

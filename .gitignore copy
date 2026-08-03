@@ -1,7 +1,0 @@
-_site
-.DS_Store
-*.swp
-.sass-cache
-*~
-Gemfile.lock.old
-node_modules/*

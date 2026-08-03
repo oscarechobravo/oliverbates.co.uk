@@ -2,7 +2,7 @@
 layout: post
 title: Switch-gig
 description: "Particiatory design leading to critical and speculative showcase of user and design research with gig economy couriers"
-image: "/assets/images/sg_logo.png"
+image: assets/images/sg_logo.png
 date: 2019-10-05
 portfolio: true
 permalink: /switch-gig
