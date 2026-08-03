@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver Bates</title>
+    <description>Oliver Bates - Homepage.</description>
+    <link>http://localhost:4000/ob-homepage/</link>
+    <atom:link href="http://localhost:4000/ob-homepage/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Aug 2026 15:42:56 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:42:56 +0100</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Flip That</title>
+        <description>&lt;p&gt;Flip That is a sequel to Screw That. Which I’ve not written about on this page yet.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Jul 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/flip-that</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/flip-that</guid>
+        
+        <category>game</category>
+        
+        <category>research through game design</category>
+        
+        
+        <category>games</category>
+        
+        <category>project</category>
+        
+        <category>research through game design</category>
+        
+      </item>
+    
+      <item>
+        <title>Museum of Manky Tea Towels</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Marvel at our collection of manky tea towels. We have been saving tea towels across the country from behind radiators, the backs of drawers, corners of charity shops, and boxes in lofts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tea towels tell stories about the places we have been, the people we love, and the tea that we have drunk. They contain politics and history - they are designed as a lens on places and people, that we see and use every day. They carry traces of our imperfect washing skills, scorches from use as makeshift oven mitts, and the odd bit of cat sick.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fundamentally, tea towels are the real legacy of civilisation. At the end of history only manky tea towels will remain. We tell our stories by the stains we leave behind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Museum of Manky Tea Towels celebrates the utility and absurdity of tea towels. It is an interactive, open exhibit that will be available for everyone during the festival. It features a collection of hundreds of tea towels from around the world to explore. You may use the museum towels to dry your mugs, or you can take, modify and enhance a tea towel to tell a new story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ben.kirman.org/stuff/manky-tea-towels/&quot;&gt;Read more and donate to the museum of manky tea towels collection!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;the-zine-of-the-museum-of-manky-tea-towels&quot;&gt;The zine of the Museum of Manky Tea Towels&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/museum_zine.png&quot; alt=&quot;The zine of the Museum of Manky Tea Towels front page featuring the manky tea towel man who is holding a tea towel that says &amp;quot;Manky Tea Towels&amp;quot;&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;figcaption&quot;&gt;The cover of The Zine of the Museum of Manky Tea Towels. Logo credit: &lt;a href=&quot;https://www.instagram.com/dotrogersting/&quot; target=&quot;blank&quot;&gt;@dotrogersting&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;  
+    &lt;a target=&quot;_blank&quot; href=&quot;https://oliverbates.itch.io/manky&quot; class=&quot;btn btn-warning&quot;&gt;Get the zine&lt;/a&gt; 
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re thinking about starting your own tea towel museum or making manky tea towels yourself you should check out our zine which talks about who we are, why we’re doing this and how you might get involved in yourself.&lt;/p&gt;
+
+&lt;h1 id=&quot;museum-of-manky-tea-towels-at-electromagnetic-field-emf-2026&quot;&gt;Museum of Manky Tea Towels at Electromagnetic Field (EMF) 2026&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/instax_museum.jpeg&quot; alt=&quot;Instax photo of The Museum of Manky Tea Towels (credit: Daphne Preston-Kendal)&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;figcaption&quot;&gt;Photo credit: Daphne Preston-Kendal, EMF camp July 2026&lt;/p&gt;
+
+&lt;p&gt;We hosted the Museum at EMF camp 2026 as an installation of the museum and a workshop for where attendees could make or mank up their own tea towels.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jul 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/museum-of-manky-tea-towels</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/museum-of-manky-tea-towels</guid>
+        
+        <category>collection</category>
+        
+        
+        <category>critical design</category>
+        
+        <category>play</category>
+        
+      </item>
+    
+      <item>
+        <title>ICT4S 2026 Zine Library</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://oliverbates.itch.io/ict4s2026zines&quot;&gt;ICT4S 2026 Zine Library&lt;/a&gt; is an outcome from the &lt;a href=&quot;https://conf.researchr.org/track/ict4s-2026/ict4s-2026-ict4s-zine&quot;&gt;ICT4S 2026 zine track&lt;/a&gt; led by me. I hosted a range of activities to bring different conversations, topics and ideas to the ICT4S conference through zines and zine making. I built upon Aksel’s and my original vision of &lt;a href=&quot;https://conf.researchr.org/track/ict4s-2024/ict4s-2024-ict4s-24-zine&quot;&gt;Zines at the ICT4S 2024 conference&lt;/a&gt; which produced the collection &lt;a href=&quot;https://doi.org/10.17613/a1n0d-2dz74&quot;&gt;Liminal Excavations&lt;/a&gt;. Zine making at the conference is a space for emergent conversations, alternative contributions and a different way to participate.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-do-zines-and-alternative-contributions-matter-in-normative-and-tech-focused-spaces&quot;&gt;Why do zines and alternative contributions matter in normative and tech focused spaces?&lt;/h1&gt;
+
+&lt;p&gt;Zines and alternative spaces for being or contributing at conferences offer ways to engage, reflect or express ideas or work in different ways.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;make space for alternative ways of being, thinking and doing&lt;/em&gt; - not every idea or conversation that’s important to have at a conference fits into a paper or other normative conference formats. Zine making offers a different way to engage with a topic that isn’t a presentation, workshop, or panel.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;collage for documenting the experiences and thoughts of conference attendees in-situ at the conference&lt;/em&gt;  presenting a different snapshot or view of the conference and the experiences of conference goers&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;stepping away from the intensity of a conference&lt;/em&gt; - zine making at a conference can create a space for quiet reflection, collaboration, and breaks from the overstimulating experiences of conferences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;zine-collective&quot;&gt;Zine Collective&lt;/h1&gt;
+
+&lt;p&gt;For zines at ICT4S I brought together a collective of designers, creatives and researchers to support ideation and the processes that made zines happen at ICT4S 2026. The collective was: Nimra Ahmed, Tim Cowlinshaw, Oana Dumbrava, Lupita Guillen Mandujano, Sam Mann, Clara Riguad, and Josefin Wangel.&lt;/p&gt;
+
+&lt;p&gt;A huge credit goes to Annique Lombard, the local conference chair, who handled the zine printing for the conference, sourcing materials and resources for crafting, and helped realise the zine space and crafting session at the conference.&lt;/p&gt;
+
+&lt;h1 id=&quot;before-the-conference-zine-jam&quot;&gt;Before the conference: Zine jam&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/ZineJamFlyer.png&quot; alt=&quot;Pre conference zine jam flyer&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;figcaption&quot;&gt;Image Credit: Oana Dumbrava&lt;/p&gt;
+
+&lt;p&gt;Before the conference I hosted a slow zine jam over a few months through a series of drop-in sessions where contributors could come along, share ideas, show where they were at with their designs, ask questions about the process, and provide me with input on what they wanted for their zines at ICT4S 2026.&lt;/p&gt;
+
+&lt;p&gt;11 zines were submitted from contributors across the globe. 50 copies of each zine were printed for conference attendees to take home with them.&lt;/p&gt;
+
+&lt;h1 id=&quot;during-the-conference-zine-area-and-library&quot;&gt;During the conference: Zine area and library&lt;/h1&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;  
+    &lt;a target=&quot;_blank&quot; href=&quot;https://oliverbates.itch.io/ict4s2026zines&quot; class=&quot;btn btn-warning&quot;&gt;Check out the Zine Library&lt;/a&gt; 
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A dedicated stand/space was set up next to the main auditorium where plenary sessions where host during the conference. The zine space contained the library of the zines from the zine jam alongside materials and resources for zine making, crafting and collaging for whenever attendees felt the urge.&lt;/p&gt;
+
+&lt;h1 id=&quot;during-the-conference-zine-and-collage-making-session&quot;&gt;During the conference: Zine and collage making session&lt;/h1&gt;
+
+&lt;p&gt;On the first day of the academic conference schedule I hosted a one hour zine making and collaging session with around 80 of the conference attendees. The pages, collages and pieces produced during this session by conference attendees resulted in the ICT4S 2026 Zine, a collection of contributions from attendees during and after this session.&lt;/p&gt;
+
+&lt;h1 id=&quot;post-conference&quot;&gt;Post conference&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://oliverbates.itch.io/ict4s2026zines&quot;&gt;ICT4S 2026 Zine Library&lt;/a&gt; contains the pre-conference zines, zines made or displayed during the conference, and a collection of collages and zine pages made during the zine and collage making session at the conference.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/ICT4S2026-zine-library</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/ICT4S2026-zine-library</guid>
+        
+        <category>zines</category>
+        
+        
+        <category>zines</category>
+        
+        <category>reflection</category>
+        
+      </item>
+    
+      <item>
+        <title>Research through games design</title>
+        <description>&lt;p&gt;Research through games design offers our view of games design as a critical design approach for generating new knowledge through the design process. It’s not about producing finished, complete or playable games. It is about making games as a design pursuit to exploring something, a topic, a system, an idea.&lt;/p&gt;
+
+&lt;p&gt;What did you learn when you made the game? Why did you make the game? How has that game you started designing metamorphosized as time has gone by? What do you learn if you don’t take game making “seriously”?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/drs_paper.png&quot; alt=&quot;Our DRS Paper emphasised&quot; width=&quot;70%&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;  
+    &lt;a target=&quot;_blank&quot; href=&quot;https://doi.org/10.21606/drs.2026.565&quot; class=&quot;btn btn-danger&quot;&gt;Read the paper (if you like)&lt;/a&gt; 
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We conceptualised Research through games design in a zine for BDiGRA 2025 in Birmingham, giving out copies of the zine and Meal Deal from a suitcase.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/moam-front.png&quot; alt=&quot;The Research through games design, emphasised&quot; width=&quot;70%&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;  
+    &lt;a target=&quot;_blank&quot; href=&quot;https://oliverbates.itch.io/rtgd&quot; class=&quot;btn btn-warning&quot;&gt;Get the zine&lt;/a&gt; 
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to Ben for presenting at DRS2026.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;There’s something really exciting about making games with people whilst you feel out a topic or idea. Being able to create and play with fictional worlds, play with boundaries, play with different systems.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/rtgd</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/rtgd</guid>
+        
+        <category>acadmic paper</category>
+        
+        <category>research through game design</category>
+        
+        <category>research through design</category>
+        
+        
+        <category>games</category>
+        
+        <category>design research</category>
+        
+        <category>academic project</category>
+        
+      </item>
+    
+      <item>
+        <title>Introductions are weird</title>
+        <description>&lt;div class=&quot;chatboard&quot;&gt;
+  &lt;div class=&quot;received&quot;&gt;hey&lt;/div&gt;
+  &lt;div class=&quot;sent&quot;&gt;I&apos;m Oliver. I&apos;m a designer, researcher and creative.&lt;/div&gt;
+  &lt;div class=&quot;received&quot;&gt;yeah. cool. I didn&apos;t ask you any questions though. do you normally just start introducing yourself as soon as someone talks to you disregarding any conversation that could have been happening before ... or context?&lt;/div&gt;
+  &lt;div class=&quot;sent&quot;&gt;Maybe? Honestly I&apos;ve not really thought about it. I don&apos;t think I normally just introduce myself whenever I step into an on-going conversation.&lt;/div&gt;
+  &lt;div class=&quot;received&quot;&gt;ok so you have some self awareness. good. we can work with that&lt;/div&gt;
+  &lt;div class=&quot;sent&quot;&gt;Sorry. Who is we?&lt;/div&gt;
+  &lt;div class=&quot;received&quot;&gt;just introduce yourself differently. and when asked.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+Well that was awkward.&lt;/p&gt;
+
+&lt;p&gt;I’m at a moment in my career where I am asking myself questions like &lt;em&gt;what am I about&lt;/em&gt;, &lt;em&gt;who am I&lt;/em&gt;, and &lt;em&gt;how do I introduce myself professionally&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I want to introduce myself to you but I don’t know who &lt;em&gt;you&lt;/em&gt; are. You see, I have this impulsion to tweak my “About Me” depending on who you are, who the audience is. I have no idea who you are dear reader I can’t really tailor anything. If I am to be myself you’re getting the raw feed. Take the &lt;a href=&quot;/ob-homepage/about&quot;&gt;About Me&lt;/a&gt; page as a snapshot made for a generic person.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/introductions_are_weird/</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/introductions_are_weird/</guid>
+        
+        <category>playful</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Museum of Manky Tea Towels: Call for Tea Towels!</title>
+        <description>&lt;p&gt;As part of ongoing research with tea towels and storytelling, we are co-organising an event at the arts and science festival &lt;a href=&quot;https://www.emfcamp.org/&quot;&gt;Electromagnetic Field&lt;/a&gt; called “The Museum of Manky Tea Towels”.&lt;/p&gt;
+
+&lt;p&gt;This is a workshop where we explore the storytelling of tea towels. We uncover the politics and narrative threads of these everyday objects, and support visitors in modifying, staining, enhancing and re-designing tea towels to tell alternative stories about places and people.&lt;/p&gt;
+
+&lt;h2 id=&quot;call-for-tea-towels&quot;&gt;Call for Tea Towels!&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;I need your help:&lt;/em&gt; We need loads of printed souvenir/novelty tea towels, to serve as the raw material both for the exhibition, and also for people to cut up and repurpose.
+If you have any old souvenir tea towels you no longer want, we would love your donations for the collection. They can be in any state of stains and tatters (it is a manky museum, after all!).&lt;/p&gt;
+
+&lt;p&gt;Let Ben know if you can help! &lt;a href=&quot;mailto:ben.kirman@york.ac.uk&quot;&gt;ben.kirman@york.ac.uk&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 May 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/call-for-manky-tea-towels/</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/call-for-manky-tea-towels/</guid>
+        
+        <category>cfp</category>
+        
+        
+        <category>critical design</category>
+        
+        <category>tea towels</category>
+        
+        <category>cfp</category>
+        
+      </item>
+    
+      <item>
+        <title>SCREW THAT! A resource scarcity game</title>
+        <description>&lt;p&gt;Screw That is a game that came together in under an hour in March 2025. A conversation between myself and &lt;a href=&quot;https://ben.kirman.org&quot;&gt;Ben Kirman&lt;/a&gt; about how games can be a fertile medium for pushing past the traditional outcomes of a research project.&lt;/p&gt;
+
+&lt;p&gt;We were reflecting on domestic eco-feedback and energy reduction, a topic we both worked on a decade or so prior. If memory serves, I was frustrated by how intangible and distant the recommendations I made are from the lived experiences of energy consumers. I wanted to pull at what a game could be that was provocative, beautifully simple and &lt;em&gt;so&lt;/em&gt; open that players experiences could wildly vary.&lt;/p&gt;
+
+&lt;p&gt;Here’s the notes from that March 2023 meeting.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;screw-that-a-resource-scarcity-game&quot;&gt;SCREW THAT! A resource scarcity game&lt;/h2&gt;
+  &lt;p&gt;Screw driver valve - multiplayer - different player select valves on or off, other players confronted with isolated systems&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;This is a game about resource scarcity based on possible futures where resources that we take for granted in everyday situations become suddenly scarce and we are faced with unfamiliar situations.&lt;/li&gt;
+    &lt;li&gt;SCREW THAT is a role playing game, that focuses on what many who have never struggled to source clean water may consider mundane, the domestic water supply.&lt;/li&gt;
+    &lt;li&gt;One of the aims of the game is to help people uncover, through discovery, prior knowledge, or experimentation, how water supply works in their home.&lt;/li&gt;
+    &lt;li&gt;What you need to play:
+      &lt;ul&gt;
+        &lt;li&gt;A flat headed screw driver&lt;/li&gt;
+        &lt;li&gt;One or more willing players who you share a living space with&lt;/li&gt;
+        &lt;li&gt;Recommended extras:
+          &lt;ul&gt;
+            &lt;li&gt;A bucket&lt;/li&gt;
+            &lt;li&gt;A length of hose&lt;/li&gt;
+            &lt;li&gt;A role of duct tape&lt;/li&gt;
+            &lt;li&gt;A funnel, or something that can be fashioned into a funnel&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Levels of scarcity&lt;/li&gt;
+    &lt;li&gt;Sources - where can you find water.&lt;/li&gt;
+    &lt;li&gt;Knowledge about water supply&lt;/li&gt;
+    &lt;li&gt;Ways water is used&lt;/li&gt;
+    &lt;li&gt;Map the valves?&lt;/li&gt;
+    &lt;li&gt;Examples of play:
+      &lt;ul&gt;
+        &lt;li&gt;Player A turns off all supplies bar that to the washing machine and toilet.  Players B and C construct a Jerry rigging mechanism involving hoses, breached warrenties, and mess the water from a source - toilet, washing machine, etc&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Play at home, multiplayer&lt;/li&gt;
+    &lt;li&gt;Game comes with one flat head screw driver, a hose, and some duct tape&lt;/li&gt;
+    &lt;li&gt;Liability form?&lt;/li&gt;
+    &lt;li&gt;Document in a journal what you do? Where you do it. Its impact. WhT you jerry rig&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Version two in the series is with fuse box 
+&lt;a href=&quot;/ob-homepage/flip-that&quot;&gt;FLIP THAT!&lt;/a&gt; Another resource scarcity game&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The game was a google doc with pixel art (by moi) before maturing into an 8 page zine which is available on itch.io.&lt;/p&gt;
+
+&lt;h2 id=&quot;pixel-art&quot;&gt;Pixel Art&lt;/h2&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/ob-homepage/assets/images/screw-that/screwthat-big.png&quot;&gt;
+    &lt;img src=&quot;/ob-homepage/assets/images/screw-that/screwthat-big.png&quot; alt=&quot;Screw That logo&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Screw That logo&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/ob-homepage/assets/images/screw-that/screwdriver.png&quot;&gt;
+    &lt;img src=&quot;/ob-homepage/assets/images/screw-that/screwdriver.png&quot; alt=&quot;Screwdriver&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Screwdriver&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/ob-homepage/assets/images/screw-that/close-open.png&quot;&gt;
+    &lt;img src=&quot;/ob-homepage/assets/images/screw-that/close-open.png&quot; alt=&quot;Water pipe valves - closed and open&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Pipe valves.&lt;br /&gt; closed and open&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;  
+    &lt;a target=&quot;_blank&quot; href=&quot;https://oliverbates.itch.io/screw-that&quot; class=&quot;btn btn-warning&quot;&gt;Get the zine&lt;/a&gt; 
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;design-notes&quot;&gt;Design notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;unpolished&lt;/strong&gt; - Screw That is low on details, has never been play tested, and does little to guide play. There’s no polish on the game, it is what is. It ends when it ends. The lack of polish leaves a lot of room for improvisation and interpretations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;a quickly made game is a good game&lt;/strong&gt; - It turns out I can make good things quickly given the conditions. It did help that I was looking for a distraction from work and Ben was showing up with creative energy after examining &lt;a href=&quot;https://www.equineeyes.co.uk/wp-content/uploads/2025/08/Alan-Hook-Phd-Submission.pdf&quot;&gt;Alan Hook’s PhD “Imagining
+Otherwise. A Speculative Feminist Design Approach to Interspecies Kinship - a reflective account of other ways of knowing, thinking and being with and in the world.”&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fun is not the purpose&lt;/strong&gt; - And there’s no win state. I want players to role play resource scarcity as a way of sensitising themselves to the experiences of those around the globe who live with intermittent access to water and energy. &lt;em&gt;What would you do if suddenly essential infrastructure ceased working in predictable ways?&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;a moment in my life&lt;/strong&gt; - A game like Screw That comes about because of where I’m at in various journeys. At work I’m frustrated by the norm being designing more technology to fix problems, layering more and more tech dependence and debt into our everyday lives. I am reflecting on how the work I’ve done speaks to these narratives. What does my work look like if I start asking questions like &lt;em&gt;do home lives need to made more dependent on tech?&lt;/em&gt; Since our daughter was born I’ve been increasingly thinking about preparing as resilience to uncertain futures (climate or otherwise) and how I need to prepare to parent in uncertain times.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;doing and playing otherwise&lt;/strong&gt; - The recent work and conversations (cf. &lt;a href=&quot;https://dl.acm.org/doi/10.1145/3744169.3744178&quot;&gt;Laurell Thorslund et al. 2025&lt;/a&gt;) about changing systems has left me wanting to try out different ways of thinking, being and doing - what better ways that through play, role play and games!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;turning speculation into stuff people can play with&lt;/strong&gt; - Coming from a STEM and computing background it’s taken me a longtime to let my creativity lead the way. There’s a whole post about how I’ve come to &lt;em&gt;get&lt;/em&gt; speculative design in recent years. Games have been a great material with which I can take speculative design and build spaces and experiences in which people can play with alternative ways of being, thinking and doing. By making Screw That I was able to get people to think about &lt;em&gt;what if I couldn’t just google how to fix it&lt;/em&gt;, &lt;em&gt;what if I HAD to fix it myself because help is inaccessible&lt;/em&gt;, &lt;em&gt;would I experiment to fix infrastructure or would I connect with nearby people for help or to learn&lt;/em&gt;, and &lt;em&gt;what do we do when we are left to work it out by ourselves&lt;/em&gt;. Part of me is curious to see how people might connect with neighbours when they can’t just google it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;traces-of-screw-that&quot;&gt;Traces of Screw That&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;May 2025&lt;/strong&gt; British DiGRA 2025 (Birmingham, UK) - Me and Ben presented our Research through Games Design pitch, mentioning Screw That. We handed out copies of &lt;a href=&quot;/ob-homepage/bdigra2025&quot;&gt;Making a Meal out of a Mountain&lt;/a&gt;, a zine about research through games design&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;November 2025&lt;/strong&gt; Gaming Social Justice (Imperial College, London, UK) - A green suitcase filled with Screw That mini zines and copies of &lt;a href=&quot;/ob-homepage/meal-deal&quot;&gt;Meal Deal&lt;/a&gt; followed Oliver and Ben to the event and were handed out.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;June 2026&lt;/strong&gt; DRS 2026 (Edinburgh, UK) - Screw That is mentioned in our paper talk on &lt;a href=&quot;/ob-homepage/rtgd&quot;&gt;Research through Games Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;June 2026&lt;/strong&gt; ICT4S 2026 Zine Library (Bern, Switzerland) - We submitted Screw That as part of the &lt;a href=&quot;/ob-homepage/ICT4S2026-zine-library&quot;&gt;zine jam for ICT4S 2026&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Upcoming Mystery zine collection on Climate Change games&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 10 Apr 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/screw-that</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/screw-that</guid>
+        
+        <category>game</category>
+        
+        <category>research through game design</category>
+        
+        <category>zines</category>
+        
+        
+        <category>games</category>
+        
+        <category>project</category>
+        
+        <category>research through game design</category>
+        
+      </item>
+    
+      <item>
+        <title>Making a meal out of a mountain</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Apr 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/bdigra2025</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/bdigra2025</guid>
+        
+        <category>zines</category>
+        
+        <category>research through game design</category>
+        
+        
+        <category>games</category>
+        
+        <category>academic project</category>
+        
+        <category>research through game design</category>
+        
+      </item>
+    
+      <item>
+        <title>Cyborg Cow for a friend</title>
+        <description>&lt;p&gt;Cyborg Cow is a gift for my friend Matt who started a position working as Reader of Digital Dairy on a project about Digital Twins for dairy farming. It’s quite the departure from network systems and cybersecurity. Good luck mate and have fun.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jul 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/cyborgcow/</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/cyborgcow/</guid>
+        
+        <category>playful</category>
+        
+        <category>illustration</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Liminal Excavations</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://sflab.eecs.kth.se/pub/pj7s6ahe/release/6&quot;&gt;Liminal Excavations (2024)&lt;/a&gt; is a zine I co-produced with &lt;a href=&quot;https://www.linkedin.com/in/akselbiornhansen/&quot;&gt;Aksel Biørn-Hansen&lt;/a&gt; for the 2024 ICT4S (ICT for Sustainability) conference. I stumbled into this one when I spotted that Aksel was going to be a Zine chair for the conference. Zine making was a way to bring the conversations, ideas and moments that happen in liminal spaces between the main program at conferences into a container that could be shared with conference goers and beyond.&lt;/p&gt;
+
+&lt;p&gt;You can find an archive of the call for contributions &lt;a href=&quot;https://conf.researchr.org/track/ict4s-2024/ict4s-2024-ict4s-24-zine&quot;&gt;here on the ICT4S site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We oversaw the curation and creation of Liminal Excavations, including:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Call and curation&lt;/em&gt; - I played trouble maker and vibe checker, helping ensure that the zine was open to all, and not stuck completely in the academic culture that prevents the ideas and knowledge that people produce getting out into the world.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Collaboration and Connections sessions&lt;/em&gt; - We hosted remote sessions where contributors, a mix of authors, designs and illustrators, could gather to share their ideas and make connections to other folk that could collaborate. These sessions were also the primary way that we found consent around the design decisions we made.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Presentation and Zine Cafe&lt;/em&gt; - At the conference we ran a facilitated workshop style session. We handed out physical copies of the zine, and then ran a cafe style session where tables in the session all made their own DIY contributions about themes and topics that they discussed. After the session we kept resources and the zines (art?) that attendees had created in a common space so that anyone could Zine Cafe at any point throughout the conference, which you can see here: &lt;img src=&quot;https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InV1bndqbmNnL0lNR18zODU2LTYxNzE5ODMwOTgwMjY1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19&quot; alt=&quot;Zine Cafe&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;my-role&quot;&gt;My Role&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Co-editor and co-factilitator - I was both a co-editor of the Zine and facilitator of the Zine cafe and session at the conference.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-and-tools&quot;&gt;Tech and tools&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adobe InDesign&lt;/li&gt;
+  &lt;li&gt;Adobe Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;reflection&quot;&gt;Reflection&lt;/h3&gt;
+
+&lt;p&gt;Zines and zine making offers alternative ways to participate and have a voice in a conference. Having been a multidisciplinary early career researcher I’d always struggled to find the ways to bring complex and multidisciplinary ideas into existing communities. In academia you can do a talk, write a paper, present a poster or host/attend a workshop. These ways of contributing can feel wrong sized hen you want to dip your toe into a new community or communicate complex ideas to different audiences. In my practice I’ve found zine making a wonder way to quickly turn an idea into something that is complete enough to share with others. Zines in academic settings lower the entry to participation for those who are new, curious or just passing by a topic or community.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ob-homepage/ICT4S_zine/</link>
+        <guid isPermaLink="true">http://localhost:4000/ob-homepage/ICT4S_zine/</guid>
+        
+        
+        <category>project</category>
+        
+        <category>zine</category>
+        
+      </item>
+    
+  </channel>
+</rss>
