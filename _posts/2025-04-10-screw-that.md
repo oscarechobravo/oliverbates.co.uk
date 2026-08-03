@@ -7,6 +7,7 @@ tags: [game, research through game design, zines]
 image: assets/images/screwthat-big.png
 portfolio: true
 permalink: /screw-that
+featured: true
 ---
 Screw That is a game that came together in under an hour in March 2025. A conversation between myself and [Ben Kirman](https://ben.kirman.org) about how games can be a fertile medium for pushing past the traditional outcomes of a research project. 
 
