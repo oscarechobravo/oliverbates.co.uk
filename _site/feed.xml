@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oliver Bates</title>
-    <description>Oliver Bates - Homepage.</description>
-    <link>http://localhost:4000/ob-homepage/</link>
-    <atom:link href="http://localhost:4000/ob-homepage/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Aug 2026 15:42:56 +0100</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2026 15:42:56 +0100</lastBuildDate>
+    <description>Oliver Bates - Homepage</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Aug 2026 16:07:09 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 16:07:09 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Flip That is a sequel to Screw That. Which I’ve not written about on this page yet.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jul 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/flip-that</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/flip-that</guid>
+        <link>http://localhost:4000//flip-that</link>
+        <guid isPermaLink="true">http://localhost:4000//flip-that</guid>
         
         <category>game</category>
         
@@ -52,7 +52,7 @@
 
 &lt;h1 id=&quot;the-zine-of-the-museum-of-manky-tea-towels&quot;&gt;The zine of the Museum of Manky Tea Towels&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/museum_zine.png&quot; alt=&quot;The zine of the Museum of Manky Tea Towels front page featuring the manky tea towel man who is holding a tea towel that says &amp;quot;Manky Tea Towels&amp;quot;&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/museum_zine.png&quot; alt=&quot;The zine of the Museum of Manky Tea Towels front page featuring the manky tea towel man who is holding a tea towel that says &amp;quot;Manky Tea Towels&amp;quot;&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;figcaption&quot;&gt;The cover of The Zine of the Museum of Manky Tea Towels. Logo credit: &lt;a href=&quot;https://www.instagram.com/dotrogersting/&quot; target=&quot;blank&quot;&gt;@dotrogersting&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;  
@@ -64,14 +64,14 @@
 
 &lt;h1 id=&quot;museum-of-manky-tea-towels-at-electromagnetic-field-emf-2026&quot;&gt;Museum of Manky Tea Towels at Electromagnetic Field (EMF) 2026&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/instax_museum.jpeg&quot; alt=&quot;Instax photo of The Museum of Manky Tea Towels (credit: Daphne Preston-Kendal)&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/instax_museum.jpeg&quot; alt=&quot;Instax photo of The Museum of Manky Tea Towels (credit: Daphne Preston-Kendal)&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;figcaption&quot;&gt;Photo credit: Daphne Preston-Kendal, EMF camp July 2026&lt;/p&gt;
 
 &lt;p&gt;We hosted the Museum at EMF camp 2026 as an installation of the museum and a workshop for where attendees could make or mank up their own tea towels.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Jul 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/museum-of-manky-tea-towels</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/museum-of-manky-tea-towels</guid>
+        <link>http://localhost:4000//museum-of-manky-tea-towels</link>
+        <guid isPermaLink="true">http://localhost:4000//museum-of-manky-tea-towels</guid>
         
         <category>collection</category>
         
@@ -103,7 +103,7 @@
 
 &lt;h1 id=&quot;before-the-conference-zine-jam&quot;&gt;Before the conference: Zine jam&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/ZineJamFlyer.png&quot; alt=&quot;Pre conference zine jam flyer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/ZineJamFlyer.png&quot; alt=&quot;Pre conference zine jam flyer&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;figcaption&quot;&gt;Image Credit: Oana Dumbrava&lt;/p&gt;
 
 &lt;p&gt;Before the conference I hosted a slow zine jam over a few months through a series of drop-in sessions where contributors could come along, share ideas, show where they were at with their designs, ask questions about the process, and provide me with input on what they wanted for their zines at ICT4S 2026.&lt;/p&gt;
@@ -129,8 +129,8 @@
 
 </description>
         <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/ICT4S2026-zine-library</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/ICT4S2026-zine-library</guid>
+        <link>http://localhost:4000//ICT4S2026-zine-library</link>
+        <guid isPermaLink="true">http://localhost:4000//ICT4S2026-zine-library</guid>
         
         <category>zines</category>
         
@@ -147,7 +147,7 @@
 
 &lt;p&gt;What did you learn when you made the game? Why did you make the game? How has that game you started designing metamorphosized as time has gone by? What do you learn if you don’t take game making “seriously”?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/drs_paper.png&quot; alt=&quot;Our DRS Paper emphasised&quot; width=&quot;70%&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/drs_paper.png&quot; alt=&quot;Our DRS Paper emphasised&quot; width=&quot;70%&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;  
     &lt;a target=&quot;_blank&quot; href=&quot;https://doi.org/10.21606/drs.2026.565&quot; class=&quot;btn btn-danger&quot;&gt;Read the paper (if you like)&lt;/a&gt; 
@@ -156,7 +156,7 @@
 
 &lt;p&gt;We conceptualised Research through games design in a zine for BDiGRA 2025 in Birmingham, giving out copies of the zine and Meal Deal from a suitcase.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ob-homepage/assets/images/moam-front.png&quot; alt=&quot;The Research through games design, emphasised&quot; width=&quot;70%&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/moam-front.png&quot; alt=&quot;The Research through games design, emphasised&quot; width=&quot;70%&quot; class=&quot;centered&quot; /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align:center&quot;&gt;  
     &lt;a target=&quot;_blank&quot; href=&quot;https://oliverbates.itch.io/rtgd&quot; class=&quot;btn btn-warning&quot;&gt;Get the zine&lt;/a&gt; 
 &lt;/div&gt;
@@ -169,8 +169,8 @@
 &lt;p&gt;There’s something really exciting about making games with people whilst you feel out a topic or idea. Being able to create and play with fictional worlds, play with boundaries, play with different systems.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/rtgd</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/rtgd</guid>
+        <link>http://localhost:4000//rtgd</link>
+        <guid isPermaLink="true">http://localhost:4000//rtgd</guid>
         
         <category>acadmic paper</category>
         
@@ -203,11 +203,11 @@ Well that was awkward.&lt;/p&gt;
 
 &lt;p&gt;I’m at a moment in my career where I am asking myself questions like &lt;em&gt;what am I about&lt;/em&gt;, &lt;em&gt;who am I&lt;/em&gt;, and &lt;em&gt;how do I introduce myself professionally&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;I want to introduce myself to you but I don’t know who &lt;em&gt;you&lt;/em&gt; are. You see, I have this impulsion to tweak my “About Me” depending on who you are, who the audience is. I have no idea who you are dear reader I can’t really tailor anything. If I am to be myself you’re getting the raw feed. Take the &lt;a href=&quot;/ob-homepage/about&quot;&gt;About Me&lt;/a&gt; page as a snapshot made for a generic person.&lt;/p&gt;
+&lt;p&gt;I want to introduce myself to you but I don’t know who &lt;em&gt;you&lt;/em&gt; are. You see, I have this impulsion to tweak my “About Me” depending on who you are, who the audience is. I have no idea who you are dear reader I can’t really tailor anything. If I am to be myself you’re getting the raw feed. Take the &lt;a href=&quot;//about&quot;&gt;About Me&lt;/a&gt; page as a snapshot made for a generic person.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/introductions_are_weird/</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/introductions_are_weird/</guid>
+        <link>http://localhost:4000//introductions_are_weird/</link>
+        <guid isPermaLink="true">http://localhost:4000//introductions_are_weird/</guid>
         
         <category>playful</category>
         
@@ -231,8 +231,8 @@ If you have any old souvenir tea towels you no longer want, we would love your d
 
 </description>
         <pubDate>Thu, 28 May 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/call-for-manky-tea-towels/</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/call-for-manky-tea-towels/</guid>
+        <link>http://localhost:4000//call-for-manky-tea-towels/</link>
+        <guid isPermaLink="true">http://localhost:4000//call-for-manky-tea-towels/</guid>
         
         <category>cfp</category>
         
@@ -291,7 +291,7 @@ If you have any old souvenir tea towels you no longer want, we would love your d
   &lt;/ul&gt;
 
   &lt;p&gt;Version two in the series is with fuse box 
-&lt;a href=&quot;/ob-homepage/flip-that&quot;&gt;FLIP THAT!&lt;/a&gt; Another resource scarcity game&lt;/p&gt;
+&lt;a href=&quot;//flip-that&quot;&gt;FLIP THAT!&lt;/a&gt; Another resource scarcity game&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The game was a google doc with pixel art (by moi) before maturing into an 8 page zine which is available on itch.io.&lt;/p&gt;
@@ -300,22 +300,22 @@ If you have any old souvenir tea towels you no longer want, we would love your d
 &lt;div class=&quot;gallery&quot;&gt;
 
 &lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/ob-homepage/assets/images/screw-that/screwthat-big.png&quot;&gt;
-    &lt;img src=&quot;/ob-homepage/assets/images/screw-that/screwthat-big.png&quot; alt=&quot;Screw That logo&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;//assets/images/screw-that/screwthat-big.png&quot;&gt;
+    &lt;img src=&quot;//assets/images/screw-that/screwthat-big.png&quot; alt=&quot;Screw That logo&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
   &lt;/a&gt;
   &lt;div class=&quot;desc&quot;&gt;Screw That logo&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/ob-homepage/assets/images/screw-that/screwdriver.png&quot;&gt;
-    &lt;img src=&quot;/ob-homepage/assets/images/screw-that/screwdriver.png&quot; alt=&quot;Screwdriver&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;//assets/images/screw-that/screwdriver.png&quot;&gt;
+    &lt;img src=&quot;//assets/images/screw-that/screwdriver.png&quot; alt=&quot;Screwdriver&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
   &lt;/a&gt;
   &lt;div class=&quot;desc&quot;&gt;Screwdriver&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;a target=&quot;_blank&quot; href=&quot;/ob-homepage/assets/images/screw-that/close-open.png&quot;&gt;
-    &lt;img src=&quot;/ob-homepage/assets/images/screw-that/close-open.png&quot; alt=&quot;Water pipe valves - closed and open&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;//assets/images/screw-that/close-open.png&quot;&gt;
+    &lt;img src=&quot;//assets/images/screw-that/close-open.png&quot; alt=&quot;Water pipe valves - closed and open&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;
   &lt;/a&gt;
   &lt;div class=&quot;desc&quot;&gt;Pipe valves.&lt;br /&gt; closed and open&lt;/div&gt;
 &lt;/div&gt;
@@ -340,16 +340,16 @@ Otherwise. A Speculative Feminist Design Approach to Interspecies Kinship - a re
 
 &lt;h2 id=&quot;traces-of-screw-that&quot;&gt;Traces of Screw That&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;May 2025&lt;/strong&gt; British DiGRA 2025 (Birmingham, UK) - Me and Ben presented our Research through Games Design pitch, mentioning Screw That. We handed out copies of &lt;a href=&quot;/ob-homepage/bdigra2025&quot;&gt;Making a Meal out of a Mountain&lt;/a&gt;, a zine about research through games design&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;November 2025&lt;/strong&gt; Gaming Social Justice (Imperial College, London, UK) - A green suitcase filled with Screw That mini zines and copies of &lt;a href=&quot;/ob-homepage/meal-deal&quot;&gt;Meal Deal&lt;/a&gt; followed Oliver and Ben to the event and were handed out.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;June 2026&lt;/strong&gt; DRS 2026 (Edinburgh, UK) - Screw That is mentioned in our paper talk on &lt;a href=&quot;/ob-homepage/rtgd&quot;&gt;Research through Games Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;June 2026&lt;/strong&gt; ICT4S 2026 Zine Library (Bern, Switzerland) - We submitted Screw That as part of the &lt;a href=&quot;/ob-homepage/ICT4S2026-zine-library&quot;&gt;zine jam for ICT4S 2026&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;May 2025&lt;/strong&gt; British DiGRA 2025 (Birmingham, UK) - Me and Ben presented our Research through Games Design pitch, mentioning Screw That. We handed out copies of &lt;a href=&quot;//bdigra2025&quot;&gt;Making a Meal out of a Mountain&lt;/a&gt;, a zine about research through games design&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;November 2025&lt;/strong&gt; Gaming Social Justice (Imperial College, London, UK) - A green suitcase filled with Screw That mini zines and copies of &lt;a href=&quot;//meal-deal&quot;&gt;Meal Deal&lt;/a&gt; followed Oliver and Ben to the event and were handed out.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;June 2026&lt;/strong&gt; DRS 2026 (Edinburgh, UK) - Screw That is mentioned in our paper talk on &lt;a href=&quot;//rtgd&quot;&gt;Research through Games Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;June 2026&lt;/strong&gt; ICT4S 2026 Zine Library (Bern, Switzerland) - We submitted Screw That as part of the &lt;a href=&quot;//ICT4S2026-zine-library&quot;&gt;zine jam for ICT4S 2026&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Upcoming Mystery zine collection on Climate Change games&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 10 Apr 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/screw-that</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/screw-that</guid>
+        <link>http://localhost:4000//screw-that</link>
+        <guid isPermaLink="true">http://localhost:4000//screw-that</guid>
         
         <category>game</category>
         
@@ -371,8 +371,8 @@ Otherwise. A Speculative Feminist Design Approach to Interspecies Kinship - a re
         <description>
 </description>
         <pubDate>Thu, 10 Apr 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/bdigra2025</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/bdigra2025</guid>
+        <link>http://localhost:4000//bdigra2025</link>
+        <guid isPermaLink="true">http://localhost:4000//bdigra2025</guid>
         
         <category>zines</category>
         
@@ -392,8 +392,8 @@ Otherwise. A Speculative Feminist Design Approach to Interspecies Kinship - a re
         <description>&lt;p&gt;Cyborg Cow is a gift for my friend Matt who started a position working as Reader of Digital Dairy on a project about Digital Twins for dairy farming. It’s quite the departure from network systems and cybersecurity. Good luck mate and have fun.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jul 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/cyborgcow/</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/cyborgcow/</guid>
+        <link>http://localhost:4000//cyborgcow/</link>
+        <guid isPermaLink="true">http://localhost:4000//cyborgcow/</guid>
         
         <category>playful</category>
         
@@ -435,8 +435,8 @@ Otherwise. A Speculative Feminist Design Approach to Interspecies Kinship - a re
 
 </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ob-homepage/ICT4S_zine/</link>
-        <guid isPermaLink="true">http://localhost:4000/ob-homepage/ICT4S_zine/</guid>
+        <link>http://localhost:4000//ICT4S_zine/</link>
+        <guid isPermaLink="true">http://localhost:4000//ICT4S_zine/</guid>
         
         
         <category>project</category>
