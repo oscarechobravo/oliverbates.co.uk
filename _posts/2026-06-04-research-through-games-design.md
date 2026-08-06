@@ -25,7 +25,7 @@ What did you learn when you made the game? Why did you make the game? How has th
 
 We conceptualised Research through games design in a zine for BDiGRA 2025 in Birmingham, giving out copies of the zine and Meal Deal from a suitcase. 
 
-![The Research through games design, emphasised]({{ site.baseurl }}/assets/images/moam-front.png){: width="auto" width="70%" .centered}
+![The Research through games design, emphasised]({{ site.baseurl }}/assets/images/moam.jpg){: width="auto" width="70%" .centered}
 <div style="text-align:center">  
     <a target="_blank" href="https://oliverbates.itch.io/rtgd" class="btn btn-warning">Get the zine</a> 
 </div>  
