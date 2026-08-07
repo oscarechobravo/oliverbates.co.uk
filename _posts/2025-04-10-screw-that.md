@@ -34,7 +34,7 @@ Here's the notes from that March 2023 meeting.
 >- Ways water is used
 >- Map the valves?
 >- Examples of play:
->    - Player A turns off all supplies bar that to the washing machine and toilet.  Players B and C construct a Jerry rigging mechanism involving hoses, breached warrenties, and mess the water from a source - toilet, washing machine, etc
+>    - Player A turns off all supplies bar that to the washing machine and toilet.  Players B and C construct a Jerry rigging mechanism involving hoses, breached warranties, and mess the water from a source - toilet, washing machine, etc
 >- Play at home, multiplayer
 >- Game comes with one flat head screw driver, a hose, and some duct tape
 >- Liability form? 
