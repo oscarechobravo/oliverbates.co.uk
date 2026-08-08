@@ -8,3 +8,4 @@ Gemfile.lock.old
 node_modules/*
 .jekyll-cache/*
 .vscode/*
+assets/.DS_Store

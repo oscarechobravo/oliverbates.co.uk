@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sufficiency Noticeboard "
+title: "Sufficiency Noticeboard"
 author: oliver
 categories: [ speculative design, academic project, provocation, futures ]
-image: assets/images/sufficiency-noticeboard/ds_poster.jpg
+image: assets/images/sufficiency-noticeboard/sufficiency-noticeboard-web.jpg
 portfolio: true
 hidden: false
 permalink: /sufficiency-noticeboard
